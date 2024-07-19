@@ -1,14 +1,4 @@
-sigma skibidi
-
-
-
-
-
-
-
-
-
-
+build a boat simulator
 
 
 
